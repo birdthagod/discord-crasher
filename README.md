@@ -1,5 +1,15 @@
 # discord-crasher
-Creates videos with ffmpeg that can crash discord
+
+***CREATES DISCORD VIDEOS THAT CAN CRASH DISCORD***
+
+***TO CONVERT FROM MP4 TO GIF***
+
+<a href="gfycat.com/create">CLICK ME</a>
+
+`
+DO NOT ADD TAGS JUST UPLOAD THE GIF AND CLICK CONTINUE  TILL ITS
+UPLOADED THEN OPEN THE GIF IN NEW TAB AND COPY THE LINK OR INSTALL
+`
 
 ```
 Discord Crasher
