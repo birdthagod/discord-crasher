@@ -4,7 +4,7 @@
 
 ***TO CONVERT FROM MP4 TO GIF***
 
-<a href="gfycat.com/create">CLICK ME</a>
+<a href="https://gfycat.com/create">CLICK ME</a>
 
 `
 DO NOT ADD TAGS JUST UPLOAD THE GIF AND CLICK CONTINUE  TILL ITS
