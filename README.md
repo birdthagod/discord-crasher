@@ -104,5 +104,8 @@ video.mp4(or whatever name your vid is(example: part1.mp4)) (first part of video
 
 ```
 Stuff you need to install for the python script to work:
-pip3 install colorama
+
+1. colorama
+2. ffmpeg
+3. 
 ```
