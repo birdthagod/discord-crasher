@@ -96,8 +96,8 @@ main()
 
 ```
 Files you will need to have (same directory):
-script.py
 
+main.py
 black.mp4 (will always be there !!!dont remove it!!!)
 video.mp4(or whatever name your vid is(example: part1.mp4)) (first part of video crasher / gif)
 ```
@@ -107,5 +107,5 @@ Stuff you need to install for the python script to work:
 
 1. colorama
 2. ffmpeg
-3. 
+
 ```
