@@ -1,9 +1,8 @@
-import os,sys
 import subprocess
 import glob
+from colorama import Fore, Back, Style
 import os
 import sys
-from colorama import Fore, Back, Style
 
 def clear():
     os.system("clear;cls")
@@ -34,4 +33,5 @@ def main():
     os.system("rm -rf new-vid.mp4")
     os.system("clear")
     clear()
+clear()
 main()
